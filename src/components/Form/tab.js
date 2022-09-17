@@ -1,9 +1,6 @@
 import React, { Fragment } from "react";
 import { useState } from "react";
 import classes from "./tab.module.css";
-import { FaFacebook } from "react-icons/fa";
-import { FaGoogle } from "react-icons/fa";
-import { FaTwitterSquare } from "react-icons/fa";
 
 import Tabs from "@mui/material/Tabs";
 import Tab from "@mui/material/Tab";

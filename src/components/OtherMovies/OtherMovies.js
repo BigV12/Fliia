@@ -1,10 +1,6 @@
 import React, { Fragment } from "react";
 import classes from "./OtherMovies.module.css";
-import venom from "./venom.jpg";
-import rise from "./rise.jpg";
-import thor from "./thor.jpg";
-import major from "./major.jpg";
-import spider from "./spider.jpeg";
+
 import { IoCaretForwardCircle } from "react-icons/io5";
 
 const OtherMovies = () => {
