@@ -75,7 +75,7 @@
     opacity: 1;
   }
 }
-@keyframes slide-in-top {
+@keyframes form {
   0% {
     -webkit-transform: translateY(-1000px);
     transform: translateY(-1000px);
